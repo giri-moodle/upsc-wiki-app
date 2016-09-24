@@ -8,7 +8,7 @@
     "languages": {"en": "English"},
     "wsservice" : "upsc_wiki_app",
     "wsextservice" : "local_mobile",
-    “demo_sites”: {},
+    "demo_sites": {},
+    "siteurl": "https://www.upsc.wiki/learn/"
     "gcmpn": "694767596569",
-    "customurlscheme": "upscwiki"
 }
